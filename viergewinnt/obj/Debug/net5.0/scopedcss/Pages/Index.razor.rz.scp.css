@@ -1,0 +1,57 @@
+.GameToken[b-7h4uufut54] {
+    border:solid 1px black;
+    margin:5px;
+    min-height:60px;
+    min-width:60px;
+    border-radius:50px;
+}
+
+.board[b-7h4uufut54] {
+    background-color: #1e1e1e;
+    display:flex;
+    flex-direction:row;
+    max-width:700px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.column[b-7h4uufut54] {
+    min-width:60px;
+    min-height:60px;
+    height:100%;
+}
+
+.gamepiece[b-7h4uufut54] {
+    border:solid 1px black;
+    margin:5px;
+    min-height:60px;
+    min-width:60px;
+    border-radius:50px;
+    transition: 0.3s;
+}
+
+button[b-7h4uufut54] {
+    vertical-align: top !important;
+}
+
+footer[b-7h4uufut54] {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 8px 12px;
+    border-top: 1px solid #d7d7d7;
+    background-color: #f7f7f7;
+}
+
+.red[b-7h4uufut54] {
+    background-color: #f66;
+}
+
+.yellow[b-7h4uufut54] {
+    background-color: #ff6;
+}
+
+.blank[b-7h4uufut54] {
+    background-color: #fff;
+}

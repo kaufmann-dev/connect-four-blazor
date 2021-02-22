@@ -1,0 +1,1267 @@
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.StaticWebAssets.xml
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\ref\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.pdb
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\viergewinnt.pdb
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csprojAssemblyReference.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.AssemblyInfoInputs.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.AssemblyInfo.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorComponent.input.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorComponent.output.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.TagHelpers.input.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.TagHelpers.output.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorCoreGenerate.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BPbuFn76.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NQrARY+6.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tjNWp1mM.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\FxqejFvm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\aAaRcpeO.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\pxL6Ilab.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Kby7DsXc.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vuvKLTaQ.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\76Qtmckc.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\uQMUgq9P.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\GusnPdrl.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ge0aOebC.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\iiX3+uBF.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\u6YYOBg1.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\KeeorZzd.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\GHYjj2OE.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\uFX9DY+U.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\e+ErMiR+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\DeOTR9mb.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\27qIv9mH.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mGvPWB7k.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BMfULyz6.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\20FKfAoi.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\rtPDjf+l.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\h6Pd+yz5.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Iylme5kD.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NnpUypGJ.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\D+n5k48R.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QIePuo1O.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\L0HBttNK.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XFACGxpt.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\EuPbwEmM.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\d6JSdtoL.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\fYYBQtOJ.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+bsSvtPR.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\5MtkbXww.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\WaTNMMtP.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MXJf1BQC.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xcPXwMML.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mJGuc3up.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QIzX79Ni.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\qKPHSrqM.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\D177F4n2.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\2VxcQKSg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\FE+0J0Kb.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\2Edzqp+d.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NF0OqEeF.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\zulHLyf2.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\dhticYTW.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\CrcwIX7f.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vwWzUzpi.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vF5hiXX+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6DXtOtjq.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\a15YJiRL.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\kdvVMJyJ.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xTz8SMI4.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\k0H6G99e.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Df0IHI5J.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ItaJqsXr.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\WfGpVPlA.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xOzzVgc4.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\fn6OnQqI.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\HfjyuHhK.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+LQeaAoY.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vCO1Nvsg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Y3t5R9Yb.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\EFeUm7eE.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\VgcHsz7k.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\rBKlfK1q.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XVjlr+X8.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TeDhd8JF.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\21yw51O+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\EjBd+x34.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\S3xhDVhd.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\7WjIdWe1.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\g3fAoB9X.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Z9lzrdLF.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sGsSrOT0.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\3jwwuXRL.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+0GO8xWk.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\m+C4T614.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\o32Jp+nB.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4CSlwtL+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\EwxT939b.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\fNS+OFpm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\riwUcuYX.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\L6oSXos6.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\KspqZhrs.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\j+cCL+L9.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\A+qpguS9.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZS+l+kDM.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\87sh8z1S.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4bIzuaiz.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\auQIwBzY.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\v2UTC1LG.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\pYRd4iVh.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4q62Vh+z.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\HxA3IhGm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\FImX+4I9.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\yPEahmg+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ug3ZjCNp.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sCcOao9+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YoanyV6b.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\wTQm+1dI.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+w8oRUgb.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\JkWdJFsI.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\k+DGHGj0.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\CWaRb0ic.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\hw7z+0Nl.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZE6edSic.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\5Df4eBBK.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Ldi9BVUf.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\yWan7F6M.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ep2FIN0E.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\OTlghuho.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+V8AivW9.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sfCWmpLh.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\wVt7vHeg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\o+UGF+no.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\p+noQv2t.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\hZ5vsFqc.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\CiCuO7QB.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\f7eAeO7K.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TvKUQ32l.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TQrzKLow.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Wdp8Jffb.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xvkIrSIn.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4OGZWWta.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6QFrviqp.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZLiiIdOS.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\PDsy0DQo.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\y+QoG3N7.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XUeOe8N7.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\M0T14SCC.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jMBK84++.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\cX4JLBjx.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tA+Nze9c.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ktPvdFI1.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YLW9W509.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\iPOyCEQj.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jz5sjGWk.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ywXi+Z+G.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\zz0GpbEY.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Vc++OVmB.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tdb2cv+4.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\peU+cjS+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\omSGuh3x.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\99moGjM+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\HKuUAwZr.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\iwzY0L+o.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\62+mQ++w.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\cExiPauN.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\8BQ9rZO+.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4Kebo6oo.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MM9kv5vB.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Z7BGfhis.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZhYNGQU1.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\nV34Q5XH.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BxgaKv8o.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\aKky7Dia.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\zJBJRqun.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\08todxem.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\AhHEusdt.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\0059fN6p.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ykyYWPRq.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\hTfT2jMh.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\kjEIJMJm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jZDtZfiC.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tzICVj6g.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\i+OWLt0H.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\gcHFDo3H.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\13+q05G2.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TbPqzXes.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\k4MJ8+7j.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Eb65Bdwg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Ik0aaEJ0.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XuUwn+3x.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\3UzPmksg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\wdzd75ez.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YnLa7Spy.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\L+YBq9S9.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vIK7VqrA.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6Zi53Qad.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\B3yKgcVm.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mqHukToE.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MDKk1tw1.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oB83RDGj.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\nQYmNGoB.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ASvFks+5.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jlvcCAxD.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Hk0UhXf8.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\8n1pYekR.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\kzDjJ0fg.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6Sl4GcWO.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MILM6h+O.gz
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\staticwebassets\viergewinnt.StaticWebAssets.Manifest.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\staticwebassets\viergewinnt.StaticWebAssets.xml
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\bundle\viergewinnt.styles.css
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\projectbundle\viergewinnt.bundle.scp.css
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorTargetAssemblyInfo.cache
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csproj.CopyComplete
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\ref\viergewinnt.dll
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.pdb
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\Viergewinnt.razor.g.cs
+C:\Users\Florian Rauchberger\Desktop\GitHub + Coding\GitHub\ImperialAirForce\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\Viergewinnt.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.StaticWebAssets.xml
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\ref\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\viergewinnt.pdb
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\viergewinnt.pdb
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csprojAssemblyReference.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.AssemblyInfoInputs.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.AssemblyInfo.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorComponent.input.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorComponent.output.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\RazorDeclaration\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.TagHelpers.input.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.TagHelpers.output.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorCoreGenerate.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QeoC+cD8.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BUlSmwCW.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\AqUlJcos.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\D3vvJh4+.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oHovlWAa.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\SEchp9DD.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QSYmNBL5.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\k3+SD7zQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\5EfGD23C.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oADBS0fG.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\rUy7jhQH.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jemHnXSd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ELbuEnFT.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6F3z31oZ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\JjfkQ2GR.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Qyf6Rxhq.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\J9Tq1GiV.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\P8zXYnX5.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\7xf4fvvu.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\N3pRPvrd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\EBAls+hU.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\iAu08yAU.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oh+AorJc.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\staticwebassets\viergewinnt.StaticWebAssets.Manifest.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\staticwebassets\viergewinnt.StaticWebAssets.xml
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\bundle\viergewinnt.styles.css
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\projectbundle\viergewinnt.bundle.scp.css
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.RazorTargetAssemblyInfo.cache
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.csproj.CopyComplete
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\ref\viergewinnt.dll
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\viergewinnt.pdb
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.1.js.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.1.js
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\W+dtzRbb.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\3kfk4z4S.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\01Vp5tz9.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\dkKC3uMx.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\gkRr34nb.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\dQbJkH7m.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\OFcR3GBd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\uYEIdWM+.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sOq+7XFT.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\hq4D46UQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\493z8+ox.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\lxd9m377.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4iYhJUj2.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XQwc1D53.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\z+6r9leG.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MCsUIU8N.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ixhRH3pP.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xv9guFbr.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oczdOCQh.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sD8BpCP5.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Qzb40ELv.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\8xASVAZI.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6n6ej++w.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\wmB6k1+F.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\CuuJjo9b.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\PVxS9NBQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\k85IF3Xt.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Ce9QwXxs.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\UJRFoCAi.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\q0U5x7jM.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ccDr7ml4.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BbGm70Be.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\boSRz0Vp.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\O3vIE0+4.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\fbxYyy5m.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ys1VbjOt.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\emyAd5hL.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\IXhpVwL4.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jXWY+8b2.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\WFbnqxb0.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\RZ8p61IA.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\g7EbvlJE.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\KQvngb0Y.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\s3enHwfZ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\53QP97co.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\OsGwr2PC.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\axGZpzsd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\PU5+PfHt.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\66yzMB1Z.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\2LgTFlJo.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\cvcRUzUU.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\LVpGfuTB.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ggw0NG1X.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\2zYGk5rK.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Sp7D1+Tf.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\bnb9ncXr.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZhisQjwg.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\AB+bLgBd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jWaKT+5s.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tG0MeyqF.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4Yhvvbi0.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\jn73ZG5d.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ilq5JE2r.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\GpMsheI4.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4bBWiugd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\VTvXhZ3O.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\AqYPIazp.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xH3e66et.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NpUStCww.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\nWQpBrAo.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\BUMUt5Xu.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mlaFiWc2.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\o82ELtKI.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\IkNSqFGd.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\tYKo0ubS.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\cHtS5bfQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\fAFflN8X.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6I8k89kV.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\HcdrdIfn.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\e9SUryys.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\b4NHo8Dg.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ylRJgf6O.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Hhqy0mq0.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\q0pKpvvQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\r3ph10M5.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\nNQvaW7E.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\rmym5WM+.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Pgh+Xekx.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\bsHUK5UQ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\sGk86trr.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\8Gbf2ATE.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\5GyrkGdT.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\n7QbOuzi.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YqeIZJma.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\LxM8sTp8.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TwW0eRon.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\vAwzmrRg.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\bJcesKxm.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oDQFYxBL.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\2rd8g9Zx.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6XxzfvpP.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\dvjYL+6L.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ZdgZ0+zi.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Y+tk4zK+.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\b35CDb2n.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\RQcH5wxE.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\XWBuSlxA.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\znOiw9++.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\KnOvKN8M.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\VF89AyK8.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\LgNnIdoc.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4V8yiLJE.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QsBhZ+qa.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\JYQyyIb1.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ElGBvMbE.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\LVzyWap0.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\m+m0HT9r.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\DCvLFjPy.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\a7N+W2DW.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\LA6Td0FR.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oU47ffLf.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\oCeMa2lH.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YtctBk0Q.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Y8ouVUt9.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\UYu4hDHJ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\err7CTC5.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\U+2ctn4C.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\y+IHtndr.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\q+743XzS.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\qaGVBWgv.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\l4sr1YDD.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\omNC5iQO.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\uO5YoAuh.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\0rTWccTf.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mYn8eSOT.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\6Nm27x9K.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\qYKS7Ysn.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Qt+qPtMn.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NS1S4Q9a.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\s+XE6grD.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\i17uds2u.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\xEISlwss.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Qtzp5S+2.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\hLJXjbQp.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\TnvBXzjs.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\+7lgLuGN.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\zyJ+AQSm.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\41GfX0Nq.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\NdbqYQRn.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\YuBrPefG.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\QAUIBilm.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\VcjL01mJ.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\FEoK5L6+.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\DHqMOLlq.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Ib5oBu21.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\qizeZl49.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\lnLHQDIy.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\UzZCWw+1.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\32fGCKvu.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\G4XMH6Jk.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\4RV++FaH.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mhb4FrjY.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\OhUEZxH3.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\43JZvtjn.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\MFKIwJVq.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\mYFC1nue.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\iw3ZDYjB.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\JrSBUbcf.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\GiGKyrYG.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\ArRZY84N.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\cqWr0fmR.gz
+C:\Users\serbi\Downloads\viergewinnt\viergewinnt\obj\Debug\net5.0\build-gz\Un+cnikA.gz

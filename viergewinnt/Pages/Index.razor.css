@@ -1,0 +1,57 @@
+﻿.GameToken {
+    border:solid 1px black;
+    margin:5px;
+    min-height:60px;
+    min-width:60px;
+    border-radius:50px;
+}
+
+.board {
+    background-color: #1e1e1e;
+    display:flex;
+    flex-direction:row;
+    max-width:700px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.column {
+    min-width:60px;
+    min-height:60px;
+    height:100%;
+}
+
+.gamepiece {
+    border:solid 1px black;
+    margin:5px;
+    min-height:60px;
+    min-width:60px;
+    border-radius:50px;
+    transition: 0.3s;
+}
+
+button {
+    vertical-align: top !important;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 8px 12px;
+    border-top: 1px solid #d7d7d7;
+    background-color: #f7f7f7;
+}
+
+.red {
+    background-color: #f66;
+}
+
+.yellow {
+    background-color: #ff6;
+}
+
+.blank {
+    background-color: #fff;
+}

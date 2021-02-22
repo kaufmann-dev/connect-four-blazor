@@ -1,0 +1,182 @@
+﻿@page "/"
+@using viergewinnt.Model
+
+<div class="container">
+    <h1>Connect Four</h1>
+    
+    @if (WinPlay == null)
+    {
+        <h2>@currentTurn's Turn!</h2>
+    
+    }
+    else
+    {
+        <h2>@WinPlay.WinColor Wins! <button class="btn btn-primary" @onclick="@(() => Reset())">Reset</button></h2>
+    }
+    
+    <div class="board">
+        @for (int i = 0; i < 10; i++)
+        {
+            <div class="column">
+                @for (int j = 0; j < 7; j++)
+                {
+                    int x = i;
+                    int y = j;
+                    <div class="GameToken
+                             @board.Board[i,j].Color.ToString().ToLower()" @onclick="@(() => GameTokenClicked(x,y))"
+                         style="@(IsGameTokenAWinningToken(WinPlay, i, j)? "opacity: 0.6" : "")"></div>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+<footer>By <a href="https://github.com/d-kaufmann">David Kaufmann</a> and <a href="https://github.com/FlorianRauchberger">Florian Rauchberger</a></footer>
+
+@code {
+
+    GameBoard board = new GameBoard();
+    TokenColor currentTurn = TokenColor.Red;
+    WinPlay WinPlay;
+
+    private void GameTokenClicked(int x, int y)
+    {
+        if (WinPlay != null) { return; }
+
+        GameToken clickedSpace = board.Board[x, y];
+
+        if (clickedSpace.Color == TokenColor.Blank)
+        {
+            while (y < 6)
+            {
+                GameToken nextSpace = board.Board[x, y + 1];
+
+                y = y + 1;
+                if (nextSpace.Color == TokenColor.Blank)
+                {
+                    clickedSpace = nextSpace;
+                }
+            }
+            clickedSpace.Color = currentTurn;
+
+        }
+
+        WinPlay = GetWinner();
+        if (WinPlay == null)
+        {
+            SwitchTurns();
+        }
+
+    }
+    private void SwitchTurns()
+    {
+        if (currentTurn == TokenColor.Red)
+        {
+            currentTurn = TokenColor.Yellow;
+        }
+        else
+        {
+            currentTurn = TokenColor.Red;
+        }
+    }
+
+    private WinPlay GetWinner()
+    {
+        WinPlay WinPlay = null;
+
+        for (int i = 0; i < 10; i++)
+        {
+            for (int j = 0; j < 7; j++)
+            {
+                WinPlay = EvaluateTokenForWinner(i, j, EDirection.Up);
+                if (WinPlay != null) { return WinPlay; }
+
+                WinPlay = EvaluateTokenForWinner(i, j, EDirection.UpRight);
+                if (WinPlay != null) { return WinPlay; }
+
+                WinPlay = EvaluateTokenForWinner(i, j, EDirection.Right);
+                if (WinPlay != null) { return WinPlay; }
+
+                WinPlay = EvaluateTokenForWinner(i, j, EDirection.DownRight);
+                if (WinPlay != null) { return WinPlay; }
+            }
+        }
+
+        return WinPlay;
+
+    }
+    private WinPlay EvaluateTokenForWinner(int i, int j, EDirection dir)
+    {
+        GameToken currentPiece = board.Board[i, j];
+        if (currentPiece.Color == TokenColor.Blank)
+        {
+            return null;
+        }
+
+        int inARow = 1;
+        int iNext = i;
+        int jNext = j;
+
+        var WinMoves = new List<string>();
+
+        while (inARow < 4)
+        {
+            switch (dir)
+            {
+                case EDirection.Up:
+                    jNext = jNext - 1;
+                    break;
+                case EDirection.UpRight:
+                    iNext = iNext + 1;
+                    jNext = jNext - 1;
+                    break;
+                case EDirection.Right:
+                    iNext = iNext + 1;
+                    break;
+                case EDirection.DownRight:
+                    iNext = iNext + 1;
+                    jNext = jNext + 1;
+                    break;
+            }
+            if (iNext < 0 || iNext >= 10 || jNext < 0 || jNext >= 7) { break; }
+            if (board.Board[iNext, jNext].Color == currentPiece.Color)
+            {
+                WinMoves.Add($"{iNext},{jNext}");
+                inARow++;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        if (inARow >= 4)
+        {
+            WinMoves.Add($"{i},{j}");
+
+            return new WinPlay()
+            {
+                WinMoves = WinMoves,
+                WinColor = currentPiece.Color,
+                WinDirection = dir,
+            };
+        }
+
+        return null;
+    }
+    private void Reset()
+    {
+        board = new GameBoard();
+        currentTurn = TokenColor.Red;
+        WinPlay = null;
+    }
+
+    private bool IsGameTokenAWinningToken(WinPlay WinPlay, int i, int j)
+    {
+        return WinPlay?.WinMoves?.Contains($"{i},{j}") ?? false;
+    }
+}
+
+
+
+
